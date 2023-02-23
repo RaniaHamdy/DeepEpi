@@ -14,6 +14,6 @@ The dataset after preprocessing can be downloaded from this [repository](https:/
 
 # Running The Model Script
 
-you can try see [DeepEpi]() architecture  
+you can try see [DeepEpi](https://github.com/RaniaHamdy/DeepEpi/blob/main/DeepEpi.ipynb) architecture  
 
 # Citation
