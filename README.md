@@ -1,12 +1,12 @@
 # DeepEpi
 deep learning framework to predict gene expression from histone modification using variation model of LSTM and CNN with aid of attention mechanism
+# Reference Paper
+[DeepEpi: Deep Learning Model for Predicting Gene Expression Regulation based on Epigenetic Histone Modifications] ([https://www.eurekaselect.com/article/119403](https://www.eurekaselect.com/article/133816?utm_source=TrendMD&utm_medium=cpc&utm_campaign=Current_Bioinformatics_TrendMD_0))
 
 
 # Dataset 
 DeepEPI used datase from Roadmap Epigenomics Mapping Consortium (REMC) database from the Roadmap Epigenomics Projects. The original dataset can be downloaded from this [repository](https://egg2.wustl.edu/roadmap/web_portal/processed_data.html).
 The dataset used after preprocessing from another previous work mentioned in the paper and can be downloaded from this [repository](https://github.com/ly-zhu/CRNN-gene-expression-with-histone-modifications)
-
-
 
 
 
