@@ -3,6 +3,13 @@ deep learning framework to predict gene expression from histone modification usi
 # Reference Paper
 [DeepEpi: Deep Learning Model for Predicting Gene Expression Regulation based on Epigenetic Histone Modifications] ([https://www.eurekaselect.com/article/119403](https://www.eurekaselect.com/article/133816?utm_source=TrendMD&utm_medium=cpc&utm_campaign=Current_Bioinformatics_TrendMD_0))
 
+__variation convolutional models__
+
+* CNNLSTM
+* CNNLSTM_att
+* ConvLSTM
+
+The DeepEpi found that CNNLSTM_att proposed model get the highest between the models AUC score with an average of 0.8887. 
 
 # Dataset 
 DeepEPI used datase from Roadmap Epigenomics Mapping Consortium (REMC) database from the Roadmap Epigenomics Projects. The original dataset can be downloaded from this [repository](https://egg2.wustl.edu/roadmap/web_portal/processed_data.html).
