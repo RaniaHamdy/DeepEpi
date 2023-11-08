@@ -16,3 +16,4 @@ The dataset used after preprocessing from another previous work mentioned in the
 you can try see [DeepEpi](https://github.com/RaniaHamdy/DeepEpi/blob/main/DeepEpi.ipynb) architecture  
 
 # Citation
+Hamdy Rania*, Omar M.K. Yasser and Maghraby A. Fahima, DeepEpi: Deep Learning Model for Predicting Gene Expression Regulation based on Epigenetic Histone Modifications, Current Bioinformatics 2023; 18 () . https://dx.doi.org/10.2174/1574893618666230818121046
